@@ -1,0 +1,3 @@
+/contacts.web edu.mum.waa.Welcome
+/welcome.web edu.mum.waa.Welcome
+/contact.web edu.mum.waa.Contact
